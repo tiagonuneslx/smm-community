@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nav_title_levels">Levels</string>
+    <string name="nav_title_makers">Makers</string>
+    <string name="nav_title_lessons">Lessons</string>
+    <string name="nav_title_account">Account</string>
+</resources>

@@ -38,6 +38,8 @@ dependencies {
     implementation("com.google.accompanist:accompanist-insets:0.23.0")
     implementation("com.google.accompanist:accompanist-insets-ui:0.23.0")
     implementation("com.google.accompanist:accompanist-systemuicontroller:0.23.0")
+    // TODO: Will be moved to Jetpack Navigation library https://issuetracker.google.com/issues/197140101
+    implementation("com.google.accompanist:accompanist-navigation-animation:0.23.0")
 
     androidTestImplementation("androidx.compose.ui:ui-test-junit4:1.1.0")
 }
