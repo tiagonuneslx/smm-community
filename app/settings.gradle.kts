@@ -6,6 +6,6 @@ pluginManagement {
     }
 }
 
-rootProject.name = "SMM_Community_App"
+rootProject.name = "smm-community-app"
 include(":androidApp")
 include(":shared")
